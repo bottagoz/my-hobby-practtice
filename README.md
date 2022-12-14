@@ -1,1 +1,2 @@
-# practtice frontend
+тестовый сайт с темой Мое хобби
+с использованием bootstrap
